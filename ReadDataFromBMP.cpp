@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    char* filename = "C:\\Users\\Admin\\Desktop\\TU\\!!ReadBMP\\Mem1-24.bmp";
+    char* filename = "bmp.24\\Mem1-24.bmp";
     int i, whites = 0, blacks = 0;
     FILE* f = fopen(filename, "rb");
 
